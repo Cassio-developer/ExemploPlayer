@@ -1,5 +1,5 @@
 
-## Player de video similar ao yiutube!
+## Player de video similar ao youtube!
 
 ### Do Zero
 
