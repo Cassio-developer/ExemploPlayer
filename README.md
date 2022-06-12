@@ -1,6 +1,6 @@
 
-## Novo curso da Udemy a caminho
+## Player de video similar ao yiutube!
 
-### Do Zero ao Redux
+### Do Zero
 
-Aguarde ... estamos em fase final...
+Aproveite e faça suas alterações!!
